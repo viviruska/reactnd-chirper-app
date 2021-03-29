@@ -5247,6 +5247,19 @@ react-is@^16.13.1, react-is@^16.7.0, react-is@^16.8.1:
   resolved "https://artifactory.prezi.com/artifactory/api/npm/npm/react-is/-/react-is-16.13.1.tgz#789729a4dc36de2999dc156dd6c1d9c18cea56a4"
   integrity sha1-eJcppNw23imZ3BVt1sHZwYzqVqQ=
 
+react-lifecycles-compat@^3.0.2:
+  version "3.0.4"
+  resolved "https://artifactory.prezi.com/artifactory/api/npm/npm/react-lifecycles-compat/-/react-lifecycles-compat-3.0.4.tgz#4f1a273afdfc8f3488a8c516bfda78f872352362"
+  integrity sha1-TxonOv38jzSIqMUWv9p4+HI1I2I=
+
+react-redux-loading@^4.6.1:
+  version "4.6.1"
+  resolved "https://artifactory.prezi.com/artifactory/api/npm/npm/react-redux-loading/-/react-redux-loading-4.6.1.tgz#29b3e3d90625b00cd795423fd9cdb1b4ca09438e"
+  integrity sha1-KbPj2QYlsAzXlUI/2c2xtMoJQ44=
+  dependencies:
+    prop-types "^15.6.2"
+    react-lifecycles-compat "^3.0.2"
+
 react-redux@^7.2.3:
   version "7.2.3"
   resolved "https://artifactory.prezi.com/artifactory/api/npm/npm/react-redux/-/react-redux-7.2.3.tgz#4c084618600bb199012687da9e42123cca3f0be9"
